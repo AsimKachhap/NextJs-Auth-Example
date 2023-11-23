@@ -6,4 +6,8 @@
   h1 {
     @apply font-semibold text-3xl;
   }
+
+  a {
+    @apply underline;
+  }
 }
